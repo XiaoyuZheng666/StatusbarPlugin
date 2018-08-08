@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-jb-statusbar",
-  "version": "2.4.3",
+  "version": "2.4.6",
   "description": "statusbar plugin",
   "cordova": {
     "id": "cordova-plugin-jb-statusbar",
